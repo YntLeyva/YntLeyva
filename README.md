@@ -14,7 +14,7 @@ I am a Frontend Developer with over 1 year of experience in building responsive 
 - 💖 Love the beautiful code and the music
 - 🔥 One is never too old to learn.
 
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 300px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 500px></picture>
 <br/>
 
 # 👉 Programming languages
