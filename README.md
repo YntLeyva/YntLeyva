@@ -2,12 +2,11 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=800&pause=1000&size=33&color=9D00FF&width=370&height=100&lines=Hi+%2C+I'm+Yanet+Leyva+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </p>
-<picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> About me
+<picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture>About me
 
 
 <br/>
-Sobre mi
-soy Desarrolladora Frontend con más de 1 año de experiencia en interfaces web responsivas y accesibles. Conocimientos en HTML, CSS, JavaScript y React. Autodidacta, orientada a resultados y con sólida capacidad para colaborar en equipo o de forma independiente.
+Soy Desarrolladora Frontend con más de 1 año de experiencia en interfaces web responsivas y accesibles. Conocimientos en HTML, CSS, JavaScript y React. Autodidacta, orientada a resultados y con sólida capacidad para colaborar en equipo o de forma independiente.
 
 - 🌱 My name is Yanet, I am Mexicana, welcome to my GitHub home page
 - ⚡ I know HTML
