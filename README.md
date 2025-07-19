@@ -5,14 +5,17 @@
 <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> About me
 
 
-I'm **Soy una estudiante autodidacta de programación. Comencé este camino al finalizar mis estudios universitarios, ya que sentía que lo que había estudiado no reflejaba realmente mis intereses. Decidí aprender a programar por mi cuenta, y desde entonces, descubrir y desarrollar soluciones mediante el código se ha convertido en una pasión que me motiva día a día."
-- 👀 I’m looking to collaborate on **Open-Source** Projects.
-- 🐍 I’m looking to collaborate on **Python** projects.
-- 👨‍💻 All of my projects are available at [https://github.com/N3dal](https://github.com/N3dal)
-- 💬 Ask me about **Electromagnetic** or **Python**.
-- 🐧 I like **GNU/Linux**.
-- 📫 How to reach me **nedalxzo@gmail.com**
-- 😄 Pronouns: He/Him.
+<br/>
+Sobre mi
+soy Desarrolladora Frontend con más de 1 año de experiencia en interfaces web responsivas y accesibles. Conocimientos en HTML, CSS, JavaScript y React. Autodidacta, orientada a resultados y con sólida capacidad para colaborar en equipo o de forma independiente.
+
+- 🌱 My name is Yanet, I am Mexicana, welcome to my GitHub home page
+- ⚡ I know HTML
+- 😄 And a little bit of CSS, JavaScript, ReactJS, NodeJS, Vue.js, etc.
+- 💖 Love the beautiful code and the music
+- 🔥 One is never too old to learn.
+
+<br/>
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
 
